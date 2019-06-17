@@ -1,0 +1,3 @@
+rootProject.name = 'axozon_4779'
+
+include ':app'
